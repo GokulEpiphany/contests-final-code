@@ -1,0 +1,7 @@
+{
+    "challenge_id" : "snake-species-identification-challenge",
+    "grader_id": "snake-species-identification-challenge",
+    "authors" : ["gokuleloop"],
+    "description" : "Snakes Random Agent",
+    "gpu" : true
+}
