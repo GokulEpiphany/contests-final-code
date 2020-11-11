@@ -6,6 +6,7 @@ Most of the experiments is performed with jupyter notebooks.<br/>
 	* Image classification training - EfficientNet B5
 	* Image classification inference testing
 	* Code base for AiCrowd Inference 
+	* Code for generating EfficientNet Summary for EfficientNet visualization used in paper
 
 ### Object detection training 
 
@@ -27,4 +28,8 @@ Notebook : nbs/Best-winning-submission.ipynb
 ### Code base for AiCrowd Inference
 
 Entire source code can be found at inference/* 
+
+### Code for generating EfficientNet Summary for EfficientNet visualization used in paper
+
+Notebook: nbs/Efficient-b5-summary.ipynb
 
